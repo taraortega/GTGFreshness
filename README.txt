@@ -1,2 +1,1 @@
-A fictional Company Home Page created for the Codecademy's Challenge Project: Company Home Page with Flexbox
-created using flexbox to design and build the layout for a company's homepage.
+A fictional Company Home Page created for the Codecademy's Challenge Project: Company Home Page with Flexbox created using flexbox to design and build the layout for a company's homepage.
